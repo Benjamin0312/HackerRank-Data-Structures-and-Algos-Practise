@@ -1,7 +1,9 @@
 package HackerRank;
-
 import java.util.*;
-
+/*INTRUCTION
+Give an Array List, calculate the sum of all elements in the array
+the function should return an integer value
+*/
 
 public class SimpleArraySum{
     
